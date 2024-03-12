@@ -1,1 +1,1 @@
-# WebBot
+# Legal Companion
